@@ -4,8 +4,7 @@ import java.util.*;
 public class Boggle {
 
 	// Boggle will use your well-tested BoggleTray.
-	// If you need one (did not get 100% problem coverage,
-	// ask Rick for his BoggleTray: mercer@cs.arizona.edu
+	
 	private BoggleTray boggleTray;
 	List<String> words;
 	int score;
